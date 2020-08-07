@@ -1,6 +1,10 @@
-# Sparkify
+# Sparkify <img src='https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5b06cfa8_3-4-p-query-a-digital-music-store-database1/3-4-p-query-a-digital-music-store-database1.jpg' align="right" height="140" />
 
-This is a project of Udacitys Data Engineering Nanodegree. In this project, a database for storing music and artist records is created.
+This is the first project of Udacitys Data Engineering Nanodegree. In this project, a database for storing music and artist records is created.
+
+Here are other **Sparkify** projects built on different database:
+
+[Data Warehouse: AWS Redshift]() 
 
 ## Overview
 
