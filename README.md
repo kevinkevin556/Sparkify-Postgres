@@ -4,7 +4,7 @@ This is the first project of Udacitys Data Engineering Nanodegree. In this proje
 
 Here are other **Sparkify** projects built on different database:
 
-[Data Warehouse: AWS Redshift]() 
+[Data Warehouse: AWS Redshift](https://github.com/kevinkevin556/Sparkify-Redshift) 
 
 ## Overview
 
